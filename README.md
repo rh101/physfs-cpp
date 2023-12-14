@@ -1,3 +1,5 @@
+Note: This fork was created to update this project to work with PhysFS v3 and apply bug fixes.
+
 PhysFS++
 ========
 
